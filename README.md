@@ -1,18 +1,17 @@
 # Hi, I'm Matteo Pozzi 👋 
 
-I am an **AI Developer / AI Engineer** specializing in LLM-based solutions, Generative AI frameworks, and business process automation. With a background in Computer Engineering from Politecnico di Milano and 7+ years of experience in software development and IT systems, I bridge the gap between cutting-edge AI innovations and production-ready enterprise tools.
+I am an **AI Developer** specializing in LLM-based solutions, Generative AI frameworks, and business process automation. With a background in Computer Engineering from Politecnico di Milano and 7+ years of experience in software development and IT systems, I bridge the gap between cutting-edge AI innovations and production-ready enterprise tools.
 
 ---
 
 ### 🔭 What I'm Currently Working On
-- **Generative AI Solutions:** Researching and implementing LLM systems using frameworks like **Cheshire Cat**, **Open WebUI**, and **AnythingLLM** to optimize internal enterprise workflows and document intelligence.
-- **AI Automation:** Building end-to-end intelligent workflows using **n8n** and **LangChain**.
-- **Backend & Data Integration:** Crafting robust data processing scripts in **Python** & **SQL**.
+- **LLM Solutions & GenAI Frameworks:** Researching and implementing Python-based AI architectures using **Cheshire Cat** and **Open WebUI**.
+- **Document Intelligence & Prototyping:** Developing custom AI tools with **AnythingLLM** to streamline enterprise document management and internal processes.
+- **AI Innovation & Strategy:** Experimenting with emerging AI technologies to evaluate their integration and strategic value within business contexts.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-
 - **AI & GenAI Workflows:** `Cheshire Cat` | `Open WebUI` | `AnythingLLM` | `LangChain` | `n8n`
 - **Machine Learning & Data:** `Python` | `TensorFlow` | `PyTorch` | `Scikit-Learn` | `Pandas` | `R`
 - **Backend & DevOps:** `SQL` | `Docker` | `Git` | `Magento` | `PIM`
