@@ -1,4 +1,4 @@
-# Hi, I'm Matteo Pozzi 👋 
+# Hi, I'm Matteo 👋 
 
 I am an **AI Developer** specializing in LLM-based solutions, Generative AI frameworks, and business process automation. With a background in Computer Engineering from Politecnico di Milano and 7+ years of experience in software development and IT systems, I bridge the gap between cutting-edge AI innovations and production-ready enterprise tools.
 
