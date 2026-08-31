@@ -12,7 +12,7 @@ I am an **AI Developer** specializing in LLM-based solutions, Generative AI fram
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **AI & GenAI Workflows:** `Cheshire Cat` | `Open WebUI` | `AnythingLLM` | `goose` | `LangChain` | `n8n`
+- **AI & GenAI Workflows:** `Cheshire Cat` | `Open WebUI` | `AnythingLLM` | `Goose` | `LangChain` | `n8n`
 - **Machine Learning & Data:** `Python` | `TensorFlow` | `PyTorch` | `Scikit-Learn` | `Pandas` | `R`
 - **Backend & DevOps:** `SQL` | `Docker` | `Git` | `Magento` | `PIM`
 
