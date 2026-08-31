@@ -6,13 +6,13 @@ I am an **AI Developer** specializing in LLM-based solutions, Generative AI fram
 
 ### 🔭 What I'm Currently Working On
 - **LLM Solutions & GenAI Frameworks:** Researching and implementing Python-based AI architectures using **Cheshire Cat** and **Open WebUI**.
-- **Document Intelligence & Prototyping:** Developing custom AI tools with **AnythingLLM** to streamline enterprise document management and internal processes.
+- **Document Intelligence & Prototyping:** Developing custom AI tools to streamline enterprise document management and internal processes.
 - **AI Innovation & Strategy:** Experimenting with emerging AI technologies to evaluate their integration and strategic value within business contexts.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **AI & GenAI Workflows:** `Cheshire Cat` | `Open WebUI` | `AnythingLLM` | `LangChain` | `n8n`
+- **AI & GenAI Workflows:** `Cheshire Cat` | `Open WebUI` | `AnythingLLM` | `goose` | `LangChain` | `n8n`
 - **Machine Learning & Data:** `Python` | `TensorFlow` | `PyTorch` | `Scikit-Learn` | `Pandas` | `R`
 - **Backend & DevOps:** `SQL` | `Docker` | `Git` | `Magento` | `PIM`
 
