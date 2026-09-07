@@ -32,12 +32,11 @@ I am an **AI Developer** specializing in LLM-based solutions, Generative AI fram
 - **[met-me](https://github.com/mttpzz/met-me):** LLM-powered Telegram bot with RAG and emotion detection.
 - **[nba-weekres-bot](https://github.com/mttpzz/nba-weekres-bot):** Weekly NBA recap bot on Telegram.
 
-<details><summary>University projects (Politecnico di Milano)</summary>
+**University projects (Politecnico di Milano)**
 
 - **PiCoNet:** Built a neural network in Python & TensorFlow to compute the pitch of human voice signals (NLP).
-- **Recommender Systems (Kaggle):** Job recommendation algorithm based on user search history in Python.
+- **Recommender System Challenge (Kaggle):** Job recommendation algorithm based on user search history in Python.
 - **Taxi Trajectory Prediction (ECML/PKDD):** Destination prediction using data mining techniques in R.
-</details>
 
 ---
 
