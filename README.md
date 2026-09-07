@@ -6,9 +6,9 @@ I am an **AI Developer** specializing in LLM-based solutions, Generative AI fram
 
 ### 🔭 What I'm Currently Working On
 - **LLM Solutions & GenAI Frameworks:** Researching and implementing Python-based AI architectures using **Cheshire Cat** and **Open WebUI**.
+- **LLMOps & Observability:** Routing model traffic through a **LiteLLM** gateway for unified multi-provider access, and instrumenting it with **Langfuse** for tracing, cost tracking, and output-quality evaluation.
 - **Document Intelligence & Prototyping:** Developing custom AI tools to streamline enterprise document management and internal processes.
 - **AI Innovation & Strategy:** Experimenting with emerging AI technologies to evaluate their integration and strategic value within business contexts.
-- **LLMOps & Observability:** Serving models through a **LiteLLM** gateway and instrumenting them with **Langfuse** for tracing, cost tracking, and output-quality evaluation.
 
 ---
 
@@ -27,10 +27,17 @@ I am an **AI Developer** specializing in LLM-based solutions, Generative AI fram
 
 ---
 
-### 🔬 Highlighted Projects & Research
+### 🔬 Projects
+- **[pdf2qa](https://github.com/mttpzz/pdf2qa):** Python tool that automatically generates question-answer datasets from PDFs.
+- **[met-me](https://github.com/mttpzz/met-me):** LLM-powered Telegram bot with RAG and emotion detection.
+- **[nba-weekres-bot](https://github.com/mttpzz/nba-weekres-bot):** Weekly NBA recap bot on Telegram.
+
+<details><summary>University projects (Politecnico di Milano)</summary>
+
 - **PiCoNet:** Built a neural network in Python & TensorFlow to compute the pitch of human voice signals (NLP).
 - **Recommender Systems (Kaggle):** Job recommendation algorithm based on user search history in Python.
 - **Taxi Trajectory Prediction (ECML/PKDD):** Destination prediction using data mining techniques in R.
+</details>
 
 ---
 
