@@ -28,12 +28,11 @@ I am an **AI Developer** specializing in LLM-based solutions, Generative AI fram
 ---
 
 ### 🔬 Projects
-- **[pdf2qa](https://github.com/mttpzz/pdf2qa):** Python tool that automatically generates question-answer datasets from PDFs.
-- **[met-me](https://github.com/mttpzz/met-me):** LLM-powered Telegram bot with RAG and emotion detection.
+- **[repomind](https://github.com/mttpzz/repomind):** Python multi-agent assistant that indexes source code and answers questions about it, with full LLM tracing.
 - **[nba-weekres-bot](https://github.com/mttpzz/nba-weekres-bot):** Weekly NBA recap bot on Telegram.
+- **[met-me](https://github.com/mttpzz/met-me):** LLM-powered Telegram bot with RAG and emotion detection.
 
 **University projects (Politecnico di Milano)**
-
 - **PiCoNet:** Built a neural network in Python & TensorFlow to compute the pitch of human voice signals (NLP).
 - **Recommender System Challenge (Kaggle):** Job recommendation algorithm based on user search history in Python.
 - **Taxi Trajectory Prediction (ECML/PKDD):** Destination prediction using data mining techniques in R.
