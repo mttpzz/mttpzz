@@ -13,11 +13,13 @@ I am an **AI Developer** specializing in LLM-based solutions, Generative AI fram
 ---
 
 ### 🛠️ Tech Stack & Tools
-- **Programming Languages:** `Python` | `SQL` | `R`
-- **AI & Data Frameworks:** `TensorFlow` | `PyTorch` | `Scikit-Learn` | `Pandas`
-- **GenAI, Agents & Automation:** `LangChain` | `Cheshire Cat` | `Open WebUI` | `AnythingLLM` | `Goose` | `n8n`
+- **Programming Languages:** `Python` | `SQL`
+- **ML & Data Science:** `TensorFlow` | `Scikit-Learn` | `Pandas` | `NumPy`
+- **RAG & AI Agents:** `LangChain` | `LangGraph` | `LlamaIndex` | `CrewAI` | `Agno`
+- **LLM Providers:** `Claude` | `OpenAI` | `Gemini` | `DeepSeek` | `Groq`
+- **AI Coding Assistants:** `Claude Code` | `OpenCode`
+- **Automation & Interfaces:** `Cheshire Cat` | `Open WebUI` | `AnythingLLM` | `n8n`
 - **LLMOps & DevOps:** `LiteLLM` | `Langfuse` | `Docker` | `Git`
-- **Enterprise Systems:** `Magento` | `PIM`
 
 ---
 
