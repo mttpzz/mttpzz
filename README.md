@@ -29,6 +29,7 @@ I am an **AI Developer** specializing in LLM-based solutions, Generative AI fram
 
 ### 🔬 Projects
 - **[repomind](https://github.com/mttpzz/repomind):** Python multi-agent assistant that indexes source code and answers questions about it, with full LLM tracing.
+- **[chopthesong](https://github.com/mttpzz/chopthesong):** Streamlit app that breaks a song into its parts (genres, lyrics summary, samples, Spotify links), driven by a LangGraph pipeline on Groq.
 - **[nba-weekres-bot](https://github.com/mttpzz/nba-weekres-bot):** Weekly NBA recap bot on Telegram.
 - **[met-me](https://github.com/mttpzz/met-me):** LLM-powered Telegram bot with RAG and emotion detection.
 
