@@ -9,17 +9,19 @@ I am an **AI Developer** specializing in LLM-based solutions, Generative AI fram
 - **LLMOps & Observability:** Routing model traffic through a **LiteLLM** gateway for unified multi-provider access, and instrumenting it with **Langfuse** for tracing, cost tracking, and output-quality evaluation.
 - **Document Intelligence & Prototyping:** Developing custom AI tools to streamline enterprise document management and internal processes.
 - **AI Innovation & Strategy:** Experimenting with emerging AI technologies to evaluate their integration and strategic value within business contexts.
+- **AI-Assisted Development:** Building with coding agents like **Claude Code** and **OpenCode**, across multiple LLM providers.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 - **Programming Languages:** `Python` | `SQL`
 - **ML & Data Science:** `TensorFlow` | `Scikit-Learn` | `Pandas` | `NumPy`
-- **RAG & AI Agents:** `LangChain` | `LangGraph` | `LlamaIndex` | `CrewAI` | `Agno`
+- **RAG & AI Agents:** `LangChain` | `LangGraph` | `LlamaIndex` | `CrewAI`
 - **LLM Providers:** `Claude` | `OpenAI` | `Gemini` | `DeepSeek` | `Groq`
 - **AI Coding Assistants:** `Claude Code` | `OpenCode`
-- **Automation & Interfaces:** `Cheshire Cat` | `Open WebUI` | `AnythingLLM` | `n8n`
-- **LLMOps & DevOps:** `LiteLLM` | `Langfuse` | `Docker` | `Git`
+- **GenAI Platforms & Interfaces:** `Cheshire Cat` | `Open WebUI` | `AnythingLLM`
+- **LLMOps, Automation & DevOps:** `LiteLLM` | `Langfuse` | `n8n` | `Docker` | `Git`
+- **Enterprise Systems:** `Magento` | `Shopify` | `PIM`
 
 ---
 
