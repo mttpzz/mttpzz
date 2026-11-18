@@ -18,9 +18,9 @@ I am an **AI Developer** specializing in LLM-based solutions, Generative AI fram
 - **ML & Data Science:** `TensorFlow` | `Scikit-Learn` | `Pandas` | `NumPy`
 - **RAG & AI Agents:** `LangChain` | `LangGraph` | `LlamaIndex` | `CrewAI`
 - **LLM Providers:** `Claude` | `OpenAI` | `Gemini` | `DeepSeek` | `Groq`
-- **AI Coding Assistants:** `Claude Code` | `OpenCode`
 - **GenAI Platforms & Interfaces:** `Cheshire Cat` | `Open WebUI` | `AnythingLLM`
 - **LLMOps, Automation & DevOps:** `LiteLLM` | `Langfuse` | `n8n` | `Docker` | `Git`
+- **AI Coding Assistants:** `Claude Code` | `OpenCode`
 - **Enterprise Systems:** `Magento` | `Shopify` | `PIM`
 
 ---
